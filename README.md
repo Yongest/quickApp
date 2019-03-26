@@ -1,6 +1,6 @@
 # quickapp-locally
 
-> 《本地生活》快应用示例，for you ❤️
+> 《blue》快应用示例，for you ❤️
 
 ## Preview
 
@@ -11,7 +11,7 @@
 
 ```shell
 # clone repo
-$ git clone https://github.com/zce/quickapp-locally.git
+$ git clone git@github.com:Yongest/quickApp.git
 # install dependencies
 $ yarn
 # build rpk
